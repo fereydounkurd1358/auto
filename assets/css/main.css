@@ -469,7 +469,7 @@ a {
         /* background-color: red; */
         z-index: 1;
 
-        background-image: url(/assets/images/bg//multicarmain-banner-removebg-preview.webp);
+        background-image: url(../images/bg/multicarmain-banner-removebg-preview.webp);
         background-repeat: no-repeat;
         background-size: contain;
         background-position: -24px center;
